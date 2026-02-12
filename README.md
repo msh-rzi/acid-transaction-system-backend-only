@@ -114,6 +114,7 @@ Returns the 50 most recent transactions with postings.
 - Nest.js
 - pnpm
 - PostgreSQL
+- Drizzle
 
 ### Environment
 
